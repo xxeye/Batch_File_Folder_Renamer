@@ -72,7 +72,7 @@ old_name3,
 3. **修改資料夾名稱**: Rename Folder
 4. **CSV 文件**: CSV File
 5. **目標文件夾**: Target Folder
-6. **完成文件夾**: Complete Folder
+6. **完成文件夾**: Export Folder
 7. **重命名規則**: Renaming Rule
 8. **更改從尾部搜索的第一個字詞**: Replace the first occurrence from the end
 9. **提示：可以自行輸入條目，也可以與 CSV 文件同時使用。**: Note: You can enter items manually, or use them with the CSV file simultaneously.

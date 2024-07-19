@@ -55,13 +55,10 @@ The CSV file should have two columns:
  
 Example: 
  
-\`\`\`
-csv 
-old_name1,new_name1 
-old_name2,new_name2 
-old_name3, 
-
-\`\`\` 
+```csv
+old_name1,new_name1
+old_name2,new_name2
+old_name3,
  
 - If the new name is empty, the file will only be moved to the new folder without renaming. 
  

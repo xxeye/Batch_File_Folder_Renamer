@@ -7,7 +7,7 @@ A tool for batch renaming files and folders based on specified rules.
 - Batch rename files based on rules specified in a CSV file. 
 - Manually input rename rules through the user interface. 
 - Check for duplicate rename entries and provide warnings. 
-- Move files to a specified complete folder after renaming. (Contains folder structure)
+- Move files to a specified Export Folder after renaming. (Contains folder structure)
 - Handle folder renaming with user-specified rules. 
  
 ## Installation 

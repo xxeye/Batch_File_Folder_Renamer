@@ -65,7 +65,7 @@ old_name3,
  
 ## Screenshots 
  
-![screenshot](path/Snipaste_2024-07-19_17-34-26.png) 
+![screenshot](path/Snipaste_2024-07-19_17-34-07.png) 
 
 1. **文件重命名和移動工具**: File Renaming and Moving Tool
 2. **文件重命名和移動**: File Renaming and Moving
@@ -80,7 +80,7 @@ old_name3,
 11. **替換字詞**: New Name
 12. **處理**: Process
 
-![screenshot2](path/Snipaste_2024-07-19_17-34-07.png) 
+![screenshot2](path/Snipaste_2024-07-19_17-34-26.png) 
 
 1. **文件重命名和移動工具**: File Renaming and Moving Tool
 2. **文件重命名和移動**: File Renaming and Moving

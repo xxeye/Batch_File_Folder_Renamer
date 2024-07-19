@@ -17,6 +17,8 @@ A tool for batch renaming files and folders based on specified rules.
    ```sh 
    git clone https://github.com/xxeye/Batch_File_Folder_Renamer.git 
    ``` 
+   
+   Run the executable file or install Python and the required dependencies, and run the script。
  
 2. Navigate to the project directory: 
  
@@ -64,6 +66,7 @@ old_name3,
 ## Screenshots 
  
 ![screenshot](path/Snipaste_2024-07-19_17-34-26.png) 
+
 1. **文件重命名和移動工具**: File Renaming and Moving Tool
 2. **文件重命名和移動**: File Renaming and Moving
 3. **修改資料夾名稱**: Rename Folder
@@ -76,7 +79,9 @@ old_name3,
 10. **更名字詞**: Old Name
 11. **替換字詞**: New Name
 12. **處理**: Process
+
 ![screenshot2](path/Snipaste_2024-07-19_17-34-07.png) 
+
 1. **文件重命名和移動工具**: File Renaming and Moving Tool
 2. **文件重命名和移動**: File Renaming and Moving
 3. **修改資料夾名稱**: Rename Folder

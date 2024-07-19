@@ -7,7 +7,7 @@ A tool for batch renaming files and folders based on specified rules.
 - Batch rename files based on rules specified in a CSV file. 
 - Manually input rename rules through the user interface. 
 - Check for duplicate rename entries and provide warnings. 
-- Move files to a specified complete folder after renaming. 
+- Move files to a specified complete folder after renaming. (Contains folder structure)
 - Handle folder renaming with user-specified rules. 
  
 ## Installation 
@@ -35,7 +35,7 @@ A tool for batch renaming files and folders based on specified rules.
 ## Usage 
  
 1. Run the application: 
- 
+   - Please back up the original data before running.
    ```sh 
    python BatchFileRenamer_CSV.py 
    ``` 
